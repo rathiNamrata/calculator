@@ -1,0 +1,31 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px;
+    box-shadow: inset;
+    background-color: aqua;
+    border-color: blue;
+    border-style:solid
+    
+}
+
+.keys button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+#display {
+width: 95%;
+    align-content:left;
+height: 40px;
+font-size: 20px;
+margin-bottom: 10px;
+margin-left: 3px;
+margin-right: 30px;
+    margin-top:5px;
+color: black;
+}
